@@ -54,12 +54,13 @@
         title="Github Link"
       >Update this portfolio.</a>
       <br />
-      <a
+      <!-- <a
         href
         target="_blank"
         rel="noopener noreferrer"
         title="Finding method to solve Liber Primus Cicada 3301, link will be add if things go well"
       >Cryptography and Linguistics research with data science techniques and applications, project focus on Liber Primus Cicada 3301 and Voynich manuscript</a>
+      <br /> -->
       <a
         href="https://portfolio.devilfuckangel.vercel.app/"
         target="_blank"
