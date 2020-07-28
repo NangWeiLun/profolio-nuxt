@@ -48,15 +48,28 @@
       >I am looking for jobs.</a>
       <br />
       <a
+        href="https://github.com/NangWeiLun/profolio-nuxt"
+        target="_blank"
+        rel="noopener noreferrer"
+        title="Github Link"
+      >Update this portfolio.</a>
+      <br />
+      <a
         href
         target="_blank"
         rel="noopener noreferrer"
-        title="The link will be add soon"
+        title="Finding method to solve Liber Primus Cicada 3301, link will be add if things go well"
       >Cryptography and Linguistics research with data science techniques and applications, project focus on Liber Primus Cicada 3301 and Voynich manuscript</a>
+      <a
+        href="https://portfolio.devilfuckangel.vercel.app/"
+        target="_blank"
+        rel="noopener noreferrer"
+        title="The first version of portfolio"
+      >Another version of portfolio contain more detail but underdevelopment.</a>
     </v-card-text>
     <!-- <v-card-actions>
       <v-spacer />
       <v-btn color="primary" nuxt to="/inspire">Continue</v-btn>
-    </v-card-actions> -->
+    </v-card-actions>-->
   </v-card>
 </template>

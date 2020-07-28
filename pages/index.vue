@@ -10,6 +10,8 @@
       <Education />
       <br />
       <Project />
+      <br />
+      <Career />
     </v-flex>
   </v-layout>
 </template>
@@ -20,6 +22,7 @@ import VuetifyLogo from '~/components/VuetifyLogo.vue'
 import Welcome from '~/components/Welcome.vue'
 import Education from '~/components/Education.vue'
 import Project from '~/components/Project.vue'
+import Career from '~/components/Career.vue'
 
 export default {
   components: {
@@ -28,6 +31,7 @@ export default {
     Welcome,
     Education,
     Project,
+    Career,
   },
 }
 </script>
