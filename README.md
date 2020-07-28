@@ -20,4 +20,6 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 ## Note
-1. The formatter hard/can't configurate to use nuxtjs recommended settings on vscode.
+1. The formatter hard/can't configurate to use nuxtjs recommended settings on vscode. This repo not using the recommended plugin, settings are on .eslintrc.js.
+
+2. The generate command for static target change to 'npm run export', nuxtjs no update it in README.
