@@ -5,7 +5,7 @@
       <p>
         My name is Nang Wei Lun. I am a Malaysian, 24 years old male and still look like a kid.
         <br />Study in local university and graduated with a bachelor's degree in computer science (Artificial Intelligence).
-        <br />A chinese boy, know to speak Malay and English. There's 1 more language I can "speak fluently" is Python.
+        <br />A chinese boy, know to speak Mandarin, Malay and English. There's 1 more language I can "speak fluently" is Python.
         <br />Live in Tanjong Sepat, Selangor, a small fishing village.
         <br />You can visit my
         <!-- <a
