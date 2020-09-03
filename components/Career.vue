@@ -13,7 +13,7 @@
     <CustomTextArea label="Position" value="Data Scientist (Trainee)" />
     <CustomTextArea label="Job" value="Full-Stack Python Developer, Image Processing Project" />
     <CustomTextArea label="Core Skill" value="Python Programming, Neural Network, Machine Learning, Image Processing, Network Server" />
-    <custom-text-area label="Experience" value="Full stack developer. Learnt many new things related to Business and Economics such as stock market and business skill." />
+    <custom-text-area label="Experience" value="Python developer / AI developer. Learnt many new things related to Business and Economics such as stock market and business skill." />
     <!-- </v-img> -->
   </v-card>
 </template>
